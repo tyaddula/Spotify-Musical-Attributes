@@ -30,10 +30,14 @@ Random Forest Model: For readers interested in a deeper, data-driven understandi
 # 2. Would a reader who already knew about the topic feel like they learned more about it?
 Yes, even a reader with prior knowledge about Spotify and its music trends would find valuable insights in this analysis. While they may already be familiar with general concepts like song popularity, danceability, BPM, and playlists, the project takes a deeper dive into:
 
-Correlation Insights: By examining how specific features like danceability, BPM, and acousticness correlate with streams, the project uncovers relationships that may not be immediately obvious. For example, the slight negative correlation between danceability and popularity could offer a fresh perspective for someone already familiar with Spotify trends.
+# Correlation Insights: 
+By examining how specific features like danceability, BPM, and acousticness correlate with streams, the project uncovers relationships that may not be immediately obvious. For example, the slight negative correlation between danceability and popularity could offer a fresh perspective for someone already familiar with Spotify trends.
 
-Artist Collaboration Impact: The analysis on whether collaborations lead to higher streams provides an interesting nuance that even informed readers might not have considered, exploring this factor quantitatively.
+# Artist Collaboration Impact: 
+The analysis on whether collaborations lead to higher streams provides an interesting nuance that even informed readers might not have considered, exploring this factor quantitatively.
 
-Playlist Influence: The correlation between playlist inclusion (on Deezer, Shazam, Spotify, etc.) and streams offers a deeper understanding of the role of playlists in driving popularity, which is a critical aspect of modern music discovery.
+# Playlist Influence: 
+The correlation between playlist inclusion (on Deezer, Shazam, Spotify, etc.) and streams offers a deeper understanding of the role of playlists in driving popularity, which is a critical aspect of modern music discovery.
 
-Predictive Modeling: The use of Random Forest modeling adds an advanced analytical layer, showing how features contribute to stream predictions. For data science enthusiasts, the inclusion of feature importance rankings and model evaluation (MSE, R²) provides a concrete understanding of which features are most influential in predicting popularity.
+# Predictive Modeling: 
+The use of Random Forest modeling adds an advanced analytical layer, showing how features contribute to stream predictions. For data science enthusiasts, the inclusion of feature importance rankings and model evaluation (MSE, R²) provides a concrete understanding of which features are most influential in predicting popularity.
