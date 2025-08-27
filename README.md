@@ -1,5 +1,5 @@
 # CMSC320-Final-Project
-Tejasa Yaddula, Aastha Gautam
+Tejasa Yaddula, Aastha Gautam, Alex Shrestha
 
 # Dataset: Spotify’s most streamed songs; consists of musical attributes of songs with percentages, as well as streaming metrics, and track identifying information.
 # Reference: Spotify most streamed songs. (2024, September 7). Kaggle. https://www.kaggle.com/datasets/abdulszz/spotify-most-streamed-songs
